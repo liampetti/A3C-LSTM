@@ -1,5 +1,7 @@
 # Implementation of Asynchronous Advantage Actor-Critic algorithm using Long Short Term Memory Networks (A3C-LSTM)
 
+>### Important note: The model as it is shown here does not converge on this environment. To see a converging model, please look at the [DDPG implementation](https://github.com/liampetti/DDPG)
+
 Modified from the work of Arthur Juliani: [Simple Reinforcement Learning with Tensorflow Part 8: Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
 Paper can be found here: ["Asynchronous Methods for Deep Reinforcement Learning" - Mnih et al., 2016](https://arxiv.org/abs/1602.01783)
